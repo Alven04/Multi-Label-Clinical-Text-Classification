@@ -8,10 +8,11 @@ This project aims to perform multi-label classification on clinical text data fr
 ## Approach
 - Data Preprocessing: Discharge Summary notes are preprocessed to remove noise, tokenize the text, and convert it into a format suitable for modeling.
 
-## Model Architecture: 
+## Model Architecture
 - Various deep learning architectures such as Convolutional Neural Networks (CNNs), Bidirectional LSTMs, or their combinations are explored to build a robust multi-label classification model.
 
-## Evaluation: The model is evaluated based on metrics such as accuracy, precision, recall, F1-score, and Hamming loss.
+## Evaluation
+- The model is evaluated based on metrics such as accuracy, precision, recall, F1-score, and Hamming loss.
 
 ## Limitations
 - Large Computational Resources: Training deep learning models on large clinical datasets like MIMIC-III requires significant computational resources.
