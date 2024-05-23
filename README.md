@@ -1,5 +1,6 @@
 # Multi Label Clinical Text Classification
-Overview
+
+## Overview
 This project aims to perform multi-label classification on clinical text data from the MIMIC-III dataset, specifically focusing on Discharge Summary notes. The goal is to predict multiple medical codes (ICD-9 codes) associated with each clinical note.
 
 ## Dataset
